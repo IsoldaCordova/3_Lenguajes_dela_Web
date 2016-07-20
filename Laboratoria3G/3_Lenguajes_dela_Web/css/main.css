@@ -1,0 +1,13 @@
+h1 {
+	color:red; font-weight: 500; font-family: Arial; font-size:20px;
+}
+h2 {
+	color:black; font-size:16px;
+}
+img {
+	border:blue solid 1px;
+}
+.amarillo{
+	font-size:14px; 
+	color:yellow;
+}
